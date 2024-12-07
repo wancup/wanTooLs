@@ -28,7 +28,7 @@
   },
   "devDependencies": {
     "@eslint/js": "9.16.0",
-    "@pandacss/dev": "0.48.0",
+    "@pandacss/dev": "0.48.1",
     "@park-ui/panda-preset": "0.43.1",
     "dprint": "0.47.6",
     "eslint": "9.16.0",
