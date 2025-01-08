@@ -16,7 +16,7 @@
     "test": "vitest"
   },
   "dependencies": {
-    "@ark-ui/solid": "4.6.0",
+    "@ark-ui/solid": "4.8.0",
     "@solid-primitives/mutation-observer": "1.1.17",
     "@solidjs/meta": "0.29.4",
     "@solidjs/router": "0.15.2",
